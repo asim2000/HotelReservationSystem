@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/OrientProjects/HotelReservationSystem/src/az/company/hotelreservation/main/Main.java</file>
+            <file>file:/D:/OrientProjects/HotelReservationSystem/src/az/company/hotelreservation/dao/abstracts/AddressDao.java</file>
+            <file>file:/D:/OrientProjects/HotelReservationSystem/src/az/company/hotelreservation/dao/concretes/ContactDaoImpl.java</file>
+            <file>file:/D:/OrientProjects/HotelReservationSystem/src/az/company/hotelreservation/model/Person.java</file>
+            <file>file:/D:/OrientProjects/HotelReservationSystem/src/az/company/hotelreservation/dao/concretes/CustomerDaoImpl.java</file>
+            <file>file:/D:/OrientProjects/HotelReservationSystem/src/az/company/hotelreservation/gui/MainFrame.java</file>
+            <file>file:/D:/OrientProjects/HotelReservationSystem/src/az/company/hotelreservation/service/concretes/AddressServiceImpl.java</file>
+            <file>file:/D:/OrientProjects/HotelReservationSystem/src/az/company/hotelreservation/dao/concretes/AddressDaoImpl.java</file>
+            <file>file:/D:/OrientProjects/HotelReservationSystem/src/az/company/hotelreservation/model/Customer.java</file>
+            <file>file:/D:/OrientProjects/HotelReservationSystem/src/az/company/hotelreservation/gui/NewCustomerFrame.java</file>
+            <file>file:/D:/OrientProjects/HotelReservationSystem/src/az/company/hotelreservation/service/abstracts/AddressService.java</file>
+            <file>file:/D:/OrientProjects/HotelReservationSystem/src/az/company/hotelreservation/dao/abstracts/ContactDao.java</file>
+            <file>file:/D:/OrientProjects/HotelReservationSystem/src/az/company/hotelreservation/dao/concretes/DaoHelper.java</file>
+            <file>file:/D:/OrientProjects/HotelReservationSystem/src/az/company/hotelreservation/service/concretes/CustomerServiceImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
